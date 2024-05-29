@@ -1,0 +1,7 @@
+users:
+  - name: user-1
+    groups: sudo
+    shell: /bin/bash
+    sudo: 'ALL=(ALL) NOPASSWD:ALL'
+    ssh-authorized-keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDUZ55r5GA2ME9F8dkYsgexDQp1FfaXMw1ZoazKjfjca+tyN8dT0bG0kkp9ppCw+JksLOWqUp+lDi+qt70aPQT9XvlDjsZKqaDe6FHip0+0QrnOtIAPlbGl9kwvSxdXHfS8eoP3s3b7llqvvwJ2O0UbbX3U26wlq8cZWl6e0m/NGc2mAsNCyMx+o5HCcQ924wOev+2BzK+vTjyZUB+lZL3SXuCfTC5zGe5JnDthHoUxvYqw+UQ2Y1cpN6OGE382LCSYAb+l2jB7w8DARCrzclDNQ1aKNfA2HvWbM47xG8GU7/4ZRMaP/VeFNdStcPBSkPZ40/M3ctlon9AoytqgMgkpTXZkblKe9jSkmeualsM04GocDTpf1MngI11CIf2EJkSyUTglsQpWTv0XAsE0CJmRm0Vv/G77ZtMo46PtoyjQMqFxMz587pVoYhQEpXV6vAr/TKryoD80FxjHoH22MOOftdYaLeF24HutO0AzmoBWh2h63gBhpsfmGCEfVhGJdD8= work@LAPTOP-5ER4K2JI
